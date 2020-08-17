@@ -1,13 +1,12 @@
 # Mateus Almeida&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
 <p>
   <em>
    Web Developer, CyberSecurity Enthusiast, Graphic Designer and good coffee lover. :coffee:
   </em>  
 </p>
 
+[![Blog](https://img.shields.io/badge/Blog-imsouza.github.com-%23333)](https://imsouza.github.io/)
 [![Codepen](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/imsouza)
 [![GitHub followers](https://img.shields.io/github/followers/imsouza.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/imsouza?tab=followers)
 
