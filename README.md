@@ -49,4 +49,4 @@
 
 <br>
 
-🌱 Learning all about **Open Source, Physics and Mathematic**
+🌱 Learning all about **Open Source, Linux, Physics and Mathematics**
