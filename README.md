@@ -21,25 +21,32 @@
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/H/haskell-logo-DC3DD9209C-seeklogo.com.png"></a></code><br>
+<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/H/haskell-logo-DC3DD9209C-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></a></code><br>
+<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"></a></code><br>
+<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png"></a></code>
+<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png"></a></code>
+<code><a href="https://github.com/imsouza/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"></a></code>
 
 <br>
 
-![Mateus Almeida's github stats](https://github-readme-stats.vercel.app/api?username=imsouza&show_icons=true&line_height=30)
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="Mateus Almeida's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=imsouza&show_icons=true&hide_border=true" />
+</details>
 
-🌱 Learning all about **Open Source**
+<br>
+
+🌱 Learning all about **Open Source, Physics and Mathematic**
