@@ -27,7 +27,7 @@
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></a></code>
+<code><a href="https://github.com/imsouza/"><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></a></code><br>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></a></code>
 <code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"></a></code>
@@ -49,4 +49,4 @@
 
 <br>
 
-🌱 Learning all about **Open Source, Linux, Physics and Mathematics**
+🌱 Learning all about **Open Source**
