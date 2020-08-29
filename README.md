@@ -11,11 +11,7 @@
 ![Profile views](https://gpvc.arturio.dev/imsouza)
 [![GitHub followers](https://img.shields.io/github/followers/imsouza.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/imsouza?tab=followers)
 
-<br>
-
 **💼 Currently working as:** Web Developer at <a href="https://www.adapti.info/" target="_blank"><b>Adapti</b></a>
-
-<br>
 
 **👨‍💻 Languages and Tools**
 
@@ -36,13 +32,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=square&logo=github)
 
-<br>
-
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Mateus Almeida's github stats" src="https://github-readme-stats.vercel.app/api?username=imsouza&count_private=true" />
 </details>
-
-<br>
 
 🌱 Learning all about **Open Source**
