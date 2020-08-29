@@ -1,8 +1,8 @@
-# Mateus Almeida&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Hi there 👋🏼&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <p>
   <em>
-   Web Developer, CyberSecurity Enthusiast, Graphic Designer and good coffee lover. :coffee:
+   I'm a Web Developer, CyberSecurity Enthusiast, Graphic Designer and good coffee lover. :coffee:
   </em>  
 </p>
 
@@ -17,28 +17,20 @@
 <br>
 
 **👨‍💻 Languages and Tools**<br>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/H/haskell-logo-DC3DD9209C-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></a></code><br>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"></a></code>
-<code><a href="https://github.com/imsouza/"><img height="20" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"></a></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=square&logo=bootstrap)
+![Vue](https://img.shields.io/badge/-Vue-3FB27F?style=square&logo=Vue.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-E72611?style=square&logo=Laravel&logoColor=white)
+![JQuery](https://img.shields.io/badge/-JQuery-0865A7?style=square&logo=JQuery&logoColor=white)<br>
+![MySqL](https://img.shields.io/badge/-MySqL-e3752c?style=square&logo=MySqL&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-7377AD?style=square&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3673A5?style=square&logo=Python&logoColor=white)
+![Jekyll](https://img.shields.io/badge/-Jekyll-C40000?style=square&logo=Jekyll)
+![Sublime](https://img.shields.io/badge/-Sublime-4D4D4E?style=square&logo=Sublime-Text)
+![Git](https://img.shields.io/badge/-Git-black?style=square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=square&logo=github)
 
 <br>
 
