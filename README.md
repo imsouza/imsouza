@@ -13,6 +13,7 @@
 
 **💼 Currently working as:** Web Developer at <a href="https://www.adapti.info/" target="_blank"><b>Adapti</b></a>
 Hi everyone wave
+
 **👨‍💻 Languages and Tools**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=square&logo=javascript)
