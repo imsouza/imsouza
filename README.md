@@ -12,7 +12,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/imsouza.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/imsouza?tab=followers)
 
 **💼 Currently working as:** Web Developer at <a href="https://www.adapti.info/" target="_blank"><b>Adapti</b></a>
-Hi everyone wave
 
 **👨‍💻 Languages and Tools**
 
