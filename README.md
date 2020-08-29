@@ -42,3 +42,5 @@ Hi everyone wave
   <summary>:zap: Top Langs</summary>
   <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact" />
 </details>
+
+🌱 Learning all about **Open Source** 
