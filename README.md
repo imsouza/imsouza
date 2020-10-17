@@ -2,7 +2,7 @@
 
 <p>
   <em>
-   I'm a Web Developer, CyberSecurity Enthusiast, Graphic Designer and good coffee lover. :coffee:
+   I'm a Web Developer, CyberSecurity Enthusiast and Graphic Designer. :coffee:
   </em>  
 </p>
 
