@@ -29,7 +29,7 @@
 ![C](https://img.shields.io/badge/-PL-00427E?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-636363?style=flat-square&logo=Haskell&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F47727?style=flat-square&logo=Jupyter&logoColor=white)
-![Jekyll](https://img.shields.io/badge/-Jekyll-C40000?style=square&logo=Jekyll)
+![Jekyll](https://img.shields.io/badge/-Jekyll-C40000?style=flat-square&logo=Jekyll)
 ![Sublime](https://img.shields.io/badge/-Sublime-4D4D4E?style=flat-square&logo=Sublime-Text)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
