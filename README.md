@@ -22,9 +22,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Vue](https://img.shields.io/badge/-Vue.js-3FB27F?style=flat-square&logo=Vue.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-E72611?style=flat-square&logo=Laravel&logoColor=white)
-![JQuery](https://img.shields.io/badge/-JQuery-0865A7?style=flat-square&logo=JQuery&logoColor=white)
 ![MySqL](https://img.shields.io/badge/-MySqL-e3752c?style=flat-square&logo=MySqL&logoColor=white)<br>
-![PHP](https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3673A5?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/-PL-00427E?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-636363?style=flat-square&logo=Haskell&logoColor=white)
