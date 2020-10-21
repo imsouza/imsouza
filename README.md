@@ -24,6 +24,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-E72611?style=flat-square&logo=Laravel&logoColor=white)
 ![MySqL](https://img.shields.io/badge/-MySqL-e3752c?style=flat-square&logo=MySqL&logoColor=white)<br>
 ![Python](https://img.shields.io/badge/-Python-3673A5?style=flat-square&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=PHP&logoColor=white)
 ![C](https://img.shields.io/badge/-PL-00427E?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-636363?style=flat-square&logo=Haskell&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F47727?style=flat-square&logo=Jupyter&logoColor=white)
