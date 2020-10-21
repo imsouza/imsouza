@@ -34,10 +34,15 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Mateus Almeida's github stats" src="https://github-readme-stats.vercel.app/api?username=imsouza&count_private=true" />
+  <img align="center" alt="Mateus Almeida's github stats" src="https://github-readme-stats.vercel.app/api?username=imsouza&count_private=true" />
+</details>
+
+<details>
+  <summary>:zap: Wakatime Stats</summary>
+  <img align="center" alt="Mateus Almeida's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@062f6656-5e16-4a39-8390-8e4b6a1f94b5" />
 </details>
 
 <details>
   <summary>:zap: Top Langs</summary>
-  <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=8" />
 </details>
