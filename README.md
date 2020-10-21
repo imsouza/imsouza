@@ -39,7 +39,7 @@
 
 <details>
   <summary>:zap: Wakatime Stats</summary>
-  <img align="center" alt="Mateus Almeida's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@062f6656-5e16-4a39-8390-8e4b6a1f94b5" />
+  <img align="center" alt="Mateus Almeida's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=imsouza" />
 </details>
 
 <details>
