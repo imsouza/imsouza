@@ -44,5 +44,5 @@
 
 <details>
   <summary>:zap: Top Langs</summary>
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=8" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=8&exclude_repo=roots-of-an-equation" />
 </details>
