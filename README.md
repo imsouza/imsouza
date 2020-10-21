@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary>:alarm_clock: Wakatime Stats</summary>
+  <summary>:stopwatch: Wakatime Stats</summary>
   <img align="center" alt="Mateus Almeida's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=imsouza" />
 </details>
 
