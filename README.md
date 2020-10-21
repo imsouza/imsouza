@@ -34,16 +34,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:octocat: Github Stats</summary>
   <img align="center" alt="Mateus Almeida's github stats" src="https://github-readme-stats.vercel.app/api?username=imsouza&count_private=true" />
 </details>
 
 <details>
-  <summary>:zap: Wakatime Stats</summary>
+  <summary>:alarm_clock: Wakatime Stats</summary>
   <img align="center" alt="Mateus Almeida's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=imsouza" />
 </details>
 
 <details>
-  <summary>:zap: Top Langs</summary>
+  <summary>:robot: Top Langs</summary>
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=8&exclude_repo=roots-of-an-equation" />
 </details>
