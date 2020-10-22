@@ -45,5 +45,5 @@
 
 <details>
   <summary>:robot: Top Langs</summary>
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=8&exclude_repo=roots-of-an-equation" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=8" />
 </details>
