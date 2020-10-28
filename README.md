@@ -6,14 +6,17 @@
   </em>  
 </p>
 
+:briefcase: Currently working as: Web Developer Freelancer
+
+🌱 I'm currently learning data structures and algorithms and low level programming with C and Assembly
+
 [![Blog](https://img.shields.io/badge/Blog-imsouza.github.com-%23333)](https://imsouza.github.io/)
 [![Codepen](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/imsouza)
 ![Profile views](https://gpvc.arturio.dev/imsouza)
 [![GitHub followers](https://img.shields.io/github/followers/imsouza.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/imsouza?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/imsouza.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/imsouza?tab=followers)
 
-**💼 Currently working as:** Web Developer Freelancer
-
-**👨‍💻 Languages and Tools**
+:man_technologist: Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -46,4 +49,9 @@
 <details>
   <summary>:robot: Top Langs</summary>
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=10" />
+</details>
+
+<details>
+  <summary>:fire: GitHub Streak Stats</summary>
+  <img align="center" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imsouza" />
 </details>
