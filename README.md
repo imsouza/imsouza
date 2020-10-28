@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-3673A5?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/-PL-00427E?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-636363?style=flat-square&logo=Haskell&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=PHP&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F47727?style=flat-square&logo=Jupyter&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-C40000?style=flat-square&logo=Jekyll)
 ![Sublime](https://img.shields.io/badge/-Sublime-4D4D4E?style=flat-square&logo=Sublime-Text)
