@@ -3,6 +3,7 @@
 #### I'm a Web Developer, CyberSecurity Enthusiast and Graphic Designer. :coffee:
 
 :briefcase: Currently working as: Web Developer Freelancer
+
 🌱 I'm currently learning data structures and algorithms and low level programming with C and Assembly
 
 [![Blog](https://img.shields.io/badge/Blog-imsouza.github.com-%23333)](https://imsouza.github.io/)
