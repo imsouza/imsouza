@@ -1,9 +1,9 @@
 # Hi everyone :wave:
 
-##### I'm a Web Developer, CyberSecurity Enthusiast and Graphic Designer. :coffee:
+#### I'm a Web Developer, CyberSecurity Enthusiast and Graphic Designer. :coffee:
 
-- :briefcase: Currently working as: Web Developer Freelancer
-- 🌱 I'm currently learning data structures and algorithms and low level programming with C and Assembly
+:briefcase: Currently working as: Web Developer Freelancer
+🌱 I'm currently learning data structures and algorithms and low level programming with C and Assembly
 
 [![Blog](https://img.shields.io/badge/Blog-imsouza.github.com-%23333)](https://imsouza.github.io/)
 [![Codepen](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/imsouza)
