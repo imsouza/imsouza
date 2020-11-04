@@ -45,6 +45,6 @@
 </details>
 
 <details>
-  <summary>:fire: Github Streak Stats</summary>
+  <summary>:fire: Streak Stats</summary>
   <img align="center" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imsouza" />
 </details>
