@@ -3,7 +3,7 @@
 #### I'm a Web Developer, CyberSecurity Enthusiast and Graphic Designer. :coffee:
 
 - :briefcase: Currently working as: Web Developer Freelancer
-- 🌱 I'm currently learning Linear Algebra Data Structures and Algorithms and Low Level Programming with C and Assembly
+- 🌱 I'm currently learning Linear Algebra, Data Structures and Algorithms and Low Level Programming with C and Assembly
 - 📫 How to reach me: mateusalmeida0715@gmail.com 
 
 [![Blog](https://img.shields.io/badge/Blog-imsouza.github.com-%23333)](https://imsouza.github.io/)
