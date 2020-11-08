@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://imsouza.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Blog-imsouza.github.com-%23333" alt="Blog" /> </a>
-  <a href="mateusalmeida0715@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-DD4D40?style=style=social&labelColor=DD4D40&logo=gmail&logoColor=white&link=mateusalmeida0715@gmail.com" alt="G-mail" /> </a>
+  <a href="mailto:mateusalmeida0715@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-DD4D40?style=style=social&labelColor=DD4D40&logo=gmail&logoColor=white&link=mateusalmeida0715@gmail.com" alt="G-mail" /> </a>
   <a href="https://codepen.io/imsouza" target="_blank"> <img src="https://aleen42.github.io/badges/src/codepen.svg" alt="Codepen" /> </a>
   <img src="https://gpvc.arturio.dev/imsouza" alt="Profile views" />
   <a href="https://github.com/imsouza?tab=followers" target="_blank"> <img src="https://img.shields.io/github/followers/imsouza.svg?style=social&label=Follow&maxAge=2592000" alt="Github followers" /> </a>
