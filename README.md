@@ -16,5 +16,5 @@
 <p align="center">
 <img align="left" alt="Mateus Almeida's github stats" src="https://github-readme-stats.vercel.app/api?username=imsouza&count_private=true" />
   
-<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=8" />
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=8" />
 </p>
