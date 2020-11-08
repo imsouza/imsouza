@@ -15,7 +15,5 @@
 
 
 <img align="left" alt="Mateus Almeida's github stats" src="https://github-readme-stats.vercel.app/api?username=imsouza&count_private=true" />
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=6" />
 
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsouza&layout=compact&langs_count=5" />
-
-- 🌱 I'm currently learning Linear Algebra, Data Structures and Algorithms and Low Level Programming with C and Assembly
