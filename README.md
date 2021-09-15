@@ -1,5 +1,4 @@
 <h1 align="center">Hi everyone 👋</h1>
-<h4 align="center">I'm a Web Developer, CyberSecurity Enthusiast and Graphic Designer</h4>
 
 <p align="center">
   <a href="https://imsouza.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Blog-imsouza.github.com-%23333?style=for-the-badge" alt="Blog" /> </a>
